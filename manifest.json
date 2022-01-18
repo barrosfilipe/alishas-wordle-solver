@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Alisha's Wordle Solver",
+  "version": "0.1.0",
+  "description": "Auto-Solver for Wordle",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "src/window.html"
+  },
+  "content_scripts": [
+    {
+      "js": ["src/components/contentScript.js"],
+      "matches": ["https://www.powerlanguage.co.uk/wordle/"]
+    }
+  ]
+}

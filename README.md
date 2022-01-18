@@ -6,6 +6,8 @@
 ### 
 :robot: Alisha's auto-solver for the **Wordle** game!
 
+> It's NOT REALLY a `cracker/solver`. It just "_hacks" the game naivety_ to let the **solution** exposed into the browser's `localStorage`.
+
 ![alisha](https://i.imgur.com/n4G1tyM.gif)
 
 # How to install?

@@ -8,7 +8,7 @@
 
 ![alisha](https://i.imgur.com/n4G1tyM.gif)
 
-# How to intall?
+# How to install?
 
 1. Download the pre-release [here](https://github.com/barrosfilipe/alishas-wordle-solver/releases/download/Unstable/alishas-wordle-solver.zip)
 2. Unzip it anywhere you'd like

@@ -22,4 +22,4 @@
 
 - [**CSS Scan**](https://getcssscan.com/css-buttons-examples) for providing the _CSS snippet_ for the button.
 - [**Loading IO**](https://loading.io/css/) for providing the _CSS Snippet_ for the loading animation.
-- And finially to [**Alisha**](https://www.twitch.tv/alisha) for being so stupid at [**Wordle**](https://www.powerlanguage.co.uk/wordle/) that made me do this shit.
+- And finally to [**Alisha**](https://www.twitch.tv/alisha) for being so stupid at [**Wordle**](https://www.powerlanguage.co.uk/wordle/) that made me do this shit.
